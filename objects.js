@@ -3,7 +3,7 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
-  return playlist['My Bloody Valentine'] = Sometimes;
+  return playlist['artistName'] = songTitle;
 }
 
 function removeFromPlaylist(playlist, artistName){
